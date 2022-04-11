@@ -1,3 +1,9 @@
+---
+  hide:
+    - toc
+    - navigation
+---
+
 <section align="center">
     <h1>Welcome to Rosework!</h1>
     <p>
