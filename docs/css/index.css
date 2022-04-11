@@ -1,3 +1,7 @@
 .md-content__inner > .md-content__button:first-child {
 	display: none;
 }
+
+[data-md-color-scheme="slate"] {
+    --md-default-bg-color: hsla(var(--md-hue),15%,13%,1)!important;
+}

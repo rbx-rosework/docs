@@ -11,7 +11,7 @@ theme:
     features:
         - header.autohide
     pallete:
-        primary: black
+        scheme: slate
     font:
         text: Inter
         code: JetBrains Mono
