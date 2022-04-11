@@ -2,3 +2,5 @@ site_name: Rosework
 site_url: https://rbx-rosework.github.io/docs
 nav:
     - Home: index.md
+theme:
+    name: material
