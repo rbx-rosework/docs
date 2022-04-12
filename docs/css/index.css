@@ -2,6 +2,7 @@
 	display: none;
 }
 
-[data-md-color-scheme="slate"] {
-    --md-default-bg-color: hsla(var(--md-hue),15%,13%,1)!important;
+body {
+    background-color: #151515;
+    color: #fff
 }
