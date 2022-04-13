@@ -1,7 +1,8 @@
 ---
-  hide:
-    - toc
-    - navigation
+    hide:
+        - toc
+        - navigation
+    title: Home
 ---
 
 <section align="center" class="landing">
