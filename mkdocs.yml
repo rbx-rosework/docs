@@ -3,6 +3,8 @@ site_url: https://rbx-rosework.github.io/docs
 
 nav:
     - Home: index.md
+    - Getting Started: getting_started
+    - API Reference
 
 theme:
     name: material
