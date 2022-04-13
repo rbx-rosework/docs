@@ -27,6 +27,7 @@ theme:
         - navigation.tabs
         - navigation.instant
         - navigation.indexes
+        - navigation.tracking
     pallete:
         primary: black
     font:
