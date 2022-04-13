@@ -24,7 +24,7 @@ theme:
         - navigation.instant
         - navigation.indexes
     pallete:
-        scheme: slate
+        primary: black
     font:
         text: Inter
         code: JetBrains Mono
