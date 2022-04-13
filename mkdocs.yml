@@ -40,10 +40,10 @@ extra_css:
     - css/index.css
     
 markdown_extensions:
-  - meta
-  - admonition
-  - pymdownx.details
-  - pymdownx.superfences
+    - meta
+    - admonition
+    - pymdownx.details
+    - pymdownx.superfences
 
 repo_url: https://github.com/rbx-rosework/core
 repo_name: Rosework/Core
