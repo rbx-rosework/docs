@@ -2,11 +2,9 @@ site_name: Rosework
 site_url: https://rbx-rosework.github.io/docs
 
 nav:
-    - pages:
-
     - Home:
         - index.md
-    - Getting Started: 
+    - Getting Started:
         - getting_started
     - API Reference:
         - api_reference/index.md
