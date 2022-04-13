@@ -4,7 +4,13 @@ site_url: https://rbx-rosework.github.io/docs
 nav:
     - Home: index.md
     - Getting Started: getting_started
-    - API Reference: api_reference
+    - API Reference: 
+        - Core: api_reference/core
+        - Singletons: api_reference/singleton
+        - Component: api_reference/component
+        - Tool: api_reference/tool
+        - State: api_reference/state
+        - Submodule System: api_reference/sms
 
 theme:
     name: material
