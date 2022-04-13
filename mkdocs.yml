@@ -4,7 +4,8 @@ site_url: https://rbx-rosework.github.io/docs
 nav:
     - Home: index.md
     - Getting Started: getting_started
-    - API Reference: 
+    - API Reference:
+        - api_reference/index.md
         - Core: api_reference/core
         - Singletons: api_reference/singleton
         - Component: api_reference/component
@@ -21,6 +22,7 @@ theme:
         - header.autohide
         - navigation.tabs
         - navigation.instant
+        - navigation.indexes
     pallete:
         scheme: slate
     font:
