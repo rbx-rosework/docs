@@ -4,7 +4,7 @@
     - navigation
 ---
 
-<section align="center">
+<section align="center" class="landing">
     <p>
         <a href="https://github.com/rbx-rosework/core">
             <img alt="ROSEWORK" width="175" src="https://raw.githubusercontent.com/rbx-rosework/core/stable/res/img/rosework-logo.svg?sanitize=true" />
@@ -14,7 +14,12 @@
     <p>
         <b>The Modular, Flexible Framework for Roblox</b>
     </p>
+    <nav>
+        <a href="getting_started" class="fancy-link">Get started</a>
+    </nav>
 </section>
+
+----
 
 <p align="center">
     Rosework is a heavily object-oriented and flexible framework built for
@@ -22,9 +27,3 @@
     and 
     <a href="https://www.typescriptlang.org/">TypeScript</a>.
 </p>
-
-----
-
-<section align="center">
-    Documentation coming soon.
-</section>
