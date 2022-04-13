@@ -28,8 +28,8 @@ theme:
         - navigation.instant
         - navigation.indexes
         - navigation.tracking
-    pallete:
-        primary: black
+    palette:
+        theme: slate
     font:
         text: Inter
         code: JetBrains Mono
