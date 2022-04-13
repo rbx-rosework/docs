@@ -30,6 +30,8 @@ theme:
         - navigation.tracking
     palette:
         theme: slate
+        primary: blue grey
+        accent: deep purple
     font:
         text: Inter
         code: JetBrains Mono
