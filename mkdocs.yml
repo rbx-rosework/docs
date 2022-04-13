@@ -18,6 +18,8 @@ nav:
 theme:
     name: material
     custom_dir: docs/overrides
+    logo: res/img/rosework-logo.svg
+    favicon: res/img/rosework-logo.svg
     icon:
         repo: fontawesome/brands/github
     features:

@@ -3,7 +3,7 @@
       <img
         alt="ROSEWORK"
         width="175"
-        src="./res/img/rosework-logo.svg?sanitize=true"
+        src="./docs/res/img/rosework-logo.svg?sanitize=true"
       />
     </a>
 </p>
