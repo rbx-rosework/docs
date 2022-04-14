@@ -32,15 +32,14 @@ theme:
         - navigation.indexes
         - navigation.tracking
     palette:
-        theme: slate
-        primary: blue grey
-        accent: deep purple
+        scheme: rose
     font:
         text: Inter
         code: JetBrains Mono
 
 extra_css:
     - css/index.css
+    - css/rose.css
     
 markdown_extensions:
     - meta
