@@ -5,18 +5,18 @@ nav:
     - Home:
         - index.md
     - Getting Started:
-        - getting_started
+        - getting_started/index.md
     - API Reference:
         - api_reference/index.md
-        - Core: api_reference/core
+        - Core: api_reference/core/index.md
         - Singletons: 
-            - api_reference/singleton
+            - api_reference/singleton/index.md
             - Service: api_reference/singleton/service.md
             - Controller: api_reference/singleton/controller.md
-        - Component: api_reference/component
-        - Tool: api_reference/tool
-        - State: api_reference/state
-        - Submodule System: api_reference/sms
+        - Component: api_reference/component/index.md
+        - Tool: api_reference/tool/index.md
+        - State: api_reference/state/index.md
+        - Submodule System: api_reference/sms/index.md
 
 theme:
     name: material
