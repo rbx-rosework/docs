@@ -1,0 +1,23 @@
+{% extends "main.html" %}
+
+<!-- Content -->
+{% block htmltitle %}
+<title>Not Found - {{ config.site_name }}</title>
+{% endblock %}
+
+{% block content %}
+  <div class="rose-404">
+	<h1>
+		404
+	</h1>
+	<p>
+		We couldn't find that page.
+	</p>
+	<p>
+		It might have been moved, might not exist yet, or there might be a typo in the URL.
+	</p>
+  </div>
+{% endblock %}
+
+<!-- Disqus integration -->
+{% block disqus %}{% endblock %}

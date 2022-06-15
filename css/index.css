@@ -1,0 +1,28 @@
+.md-content__inner > .md-content__button:first-child {
+	display: none;
+}
+
+.md-footer__inner { display: none }
+
+.landing nav {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+	flex-wrap: wrap;
+	column-gap: 2em;
+	row-gap: 1lh;
+}
+
+.fancy-link::after {
+	content: "->";
+	display: inline-block;
+	margin-left: 0.25em;
+	margin-right: 0.25em;
+	transition: margin 0.2s ease;
+}
+
+.fancy-link:hover::after {
+	margin-left: 0.5em;
+	margin-right: 0em;
+}
