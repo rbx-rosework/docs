@@ -1,9 +1,9 @@
 <p align="center">
-    <a href="">
+    <a href="https://rbx-rosework.github.io/docs">
       <img
         alt="ROSEWORK"
         width="175"
-        src="./res/img/rosework-logo.svg?sanitize=true"
+        src="https://github.com/rbx-rosework/core/raw/stable/res/img/rosework-logo.svg?sanitize=true"
       />
     </a>
 </p>
